@@ -53,7 +53,8 @@ Essa configuração não tem um padrão exato, fica a critério da empresa. A co
  Conforme imagem acima perceba que a link destacacado em azul para Saber mais (Learn more...)
 
  ### - Workspace details
-   * Name: Nodo do seu projeto, modelo (Deve ser único)
-   * Region: Basicamente, quer dizer em qual servidor da Microsoft você quer salvar. Acredito que também determina a moda que será cobrado por utilizar esse serviço.
-   * 
+   * Name: nome do seu projeto, modelo (Deve ser único)
+   * Region: Basicamente, quer dizer em qual servidor da Microsoft você quer salvar. Acredito que também determina a moeda que será cobrado por utilizar esse serviço.
+   * Storage account: 
+ ![image](https://github.com/user-attachments/assets/224699c0-9be1-4fb2-89ae-cc5a2342dfd8)
 
