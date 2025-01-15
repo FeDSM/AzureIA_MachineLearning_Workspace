@@ -21,8 +21,8 @@ Objetivo desse laboratório é demonstrar o processo de configuração para cria
  - Selecionar o serviço de IA Machine Learning
  - Escolher a opção "New Workspace" no botão "Create"
  - Preencher os dados solicitados a Aba "Basics"
- - 
- - 
+ - Demais configurações manter o padrão
+ - Validar as configuração e criar
  - 
  - 
  - 
@@ -45,7 +45,7 @@ Objetivo desse laboratório é demonstrar o processo de configuração para cria
  padrão é criado automaticamente quando realiza o cadastro. Mas pode ser criado outras opções.
    * Resource group: é uma sub-repositório do "Subscription".
 
-Imagina uma gaveteiro onde o gaveteiro inteiro é ``` Subcriptiom ``` e uma gaveta desse gaveteiro é o Resource group.
+Imagina uma gaveteiro onde o gaveteiro inteiro é ``` Subscriptiom ``` e uma gaveta desse gaveteiro é o Resource group.
 
 Essa configuração não tem um padrão exato, fica a critério da empresa. A configuração deve seguir um padrão que é melhor para você, empresa, instituição etc. Por exemplo, divido em projetos, Departamentos, Prédio etc.
 
@@ -54,8 +54,32 @@ Essa configuração não tem um padrão exato, fica a critério da empresa. A co
 
  ### - Workspace details
    * Name: nome do seu projeto, modelo (Deve ser único)
-   * Region: Basicamente, quer dizer em qual servidor da Microsoft você quer salvar. Acredito que também determina a moeda que será cobrado por utilizar esse serviço.
-   * Storage account: no nosso exemplo, será preenchido automaticamente, pois estamos criando um novo, então, só manter.
-     
- ![image](https://github.com/user-attachments/assets/224699c0-9be1-4fb2-89ae-cc5a2342dfd8)
+   * Region: basicamente, quer dizer em qual servidor da Microsoft você quer salvar. Acredito que também determina a moeda que será cobrado por utilizar esse serviço.
+   * Storage account: no nosso exemplo, será preenchido automaticamente, pois estamos criando um novo, então, só manter. Mas caso queira criar uma estrutura pode também. Esse Storage é usado para armazenar os artefatos criados quando rodam o modelo criado.
+   * Key Vault: onde é guardando os secredos, certificados, informações confidenciais. No nosso caso, mantemos o que será criado automático. Mas no dia-a-dia, pode ser criado uma estrutura conforme a necessidade.
+   * Aplication Insights: basicamente na criação de visões, os graficos para apresentar, monitorar quando tiver novos valores etc.
+   * Container registry: manter "None".
+
+![image](https://github.com/user-attachments/assets/224699c0-9be1-4fb2-89ae-cc5a2342dfd8)
+Reforçando, caso queira entender melhor os campos acima tem o link destacacado em azul para Saber mais (Learn more...)
+
+04 - Demais Abas: vamos manter o padrão, pois estamos realizando uma configuração basica e iremos excluir esse modelo no final.
+   * Networking: configuração de privacidade do seu modelo(Publico/Privado)
+   * Encryption: usar encryptação
+   * Identity: usar o controle de acesso
+   * Tags: muito usado para criar filtros. Por exemplo: Quero fazer rateio para lançamento de custo por Departamento, então, cria as tags por departamento. Conforme sua necessidade.
+
+   ![image](https://github.com/user-attachments/assets/c11e66d3-cccc-464f-b26a-5a1b4a8a9837)
+
+
+04 - Validar as configurações realizada na Aba ``` Review + create ``` e em seguida clicar no botão ``` create ``` 
+
+Caso não apresente a mensagem  ``` Validaded passed ```, precisa rever as configurações.
+
+![image](https://github.com/user-attachments/assets/be73b4ea-8eff-408a-a6b5-bec0c47d43c3)
+
+Após clicar no botão ``` create ``` , não é o ideal sair da tela. Deixa o processo ser concluído.
+
+![image](https://github.com/user-attachments/assets/1628971a-0c07-4d7b-98a5-d784d2662c51)
+
 
