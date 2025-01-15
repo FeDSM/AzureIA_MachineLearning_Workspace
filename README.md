@@ -1,4 +1,4 @@
-# Azure Inteligencia Artificial(IA) - Serviço Machine Learning
+# Azure Inteligência Artificial(IA) - Serviço Machine Learning
 Objetivo desse laboratório é demonstrar o processo de configuração para criar  um modelo de previsão com seus devidos pontos de extremidade configurados.
 
 ### Ferramentas utilizadas:
