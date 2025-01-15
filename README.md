@@ -15,18 +15,18 @@ Objetivo desse laboratório é demonstrar o processo de configuração para cria
       
     * https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
 
-### Resumo (Passo-a-passo): Configuração da ferramenta setoolkit para construção do Phishing no Kali Linux:
+### Resumo (Passo-a-passo): Configuração Machine Learning:
 
- - Acesso root: sudo su
- - Iniciando o setoolkit: setoolkit
- - Tipo de ataque: Social-Engineering Attacks
- - Vetor de ataque: Web Site Attack Vectors
- - Método de ataque: Credential Harvester Attack Method 
- - Método de ataque: Site Cloner
- - Obtendo o endereço da máquina: ifconfig
- - URL para clone: http://www.facebook.com
- - Enviar o IP da maquina para alguém
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
 
-### Detalhamento (Passo-a-passo): Configuração da ferramenta setoolkit para construção do Phishing no Kali Linux:
+### Detalhamento (Passo-a-passo): Configuração Machine Learning
 
-01 - Acesso root no modo administrador: aplicar o comando ``` sudo su ```, em seguida vai pedir para digitar a senha do administrador.
+01 - 
