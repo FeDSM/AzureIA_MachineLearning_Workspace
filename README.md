@@ -23,10 +23,6 @@ Objetivo desse laboratório é demonstrar o processo de configuração para cria
  - Preencher os dados solicitados a Aba "Basics"
  - Demais configurações manter o padrão
  - Validar as configuração e criar
- - 
- - 
- - 
- - 
 
 ### Detalhamento (Passo-a-passo): Configuração Machine Learning
 
