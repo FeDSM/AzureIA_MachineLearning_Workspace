@@ -20,7 +20,7 @@ Objetivo desse laboratório é demonstrar o processo de configuração para cria
 
  - Selecionar o serviço de IA Machine Learning
  - Escolher a opção "New Workspace" no botão "Create"
- - 
+ - Preencher os dados solicitados a Aba "Basics"
  - 
  - 
  - 
@@ -38,16 +38,22 @@ Objetivo desse laboratório é demonstrar o processo de configuração para cria
 
 ![image](https://github.com/user-attachments/assets/df0da2a7-d736-45a0-9c6f-1fa7468595af)
 
-03 - Preencher com os dados solicitados a Aba "Basics":
+03 - Preencher os dados solicitados a Aba "Basics":
 
- - Resource details:
-   * Subscription: é onde fica armazeado tudo que é criado. É como se você a sua empresa. Repositótorio geral de tudo que é criado, a Pasta principal. Já vem preenchido de Padrão, Esse padrão é criado automaticamente quando realiza o cadastro. Mas pode ser criado outras opções.
+### - Resource details: 
+   * Subscription: é a conta que você está logado. É como se você a sua empresa. Repositótorio geral de tudo que é criado, a Pasta principal. Já vem preenchido de padrão, Esse 
+ padrão é criado automaticamente quando realiza o cadastro. Mas pode ser criado outras opções.
    * Resource group: é uma sub-repositório do "Subscription".
 
-Imagina uma gaveteiro onde o gaveteiro inteiro é Subcriptiom e uma gaveta desse gaveteiro é o Resource group.
+Imagina uma gaveteiro onde o gaveteiro inteiro é ``` Subcriptiom ``` e uma gaveta desse gaveteiro é o Resource group.
 
-Essa configuração não tem um padrão exato, fica a critério da empresa. A configuração deve seguir um padrão que é melhor para você, empresa, instituição etc. Por exemplo, divido em projetos, Departamentos, Prédio etc. 
+Essa configuração não tem um padrão exato, fica a critério da empresa. A configuração deve seguir um padrão que é melhor para você, empresa, instituição etc. Por exemplo, divido em projetos, Departamentos, Prédio etc.
 
+ ![image](https://github.com/user-attachments/assets/e75b5773-9022-45b1-944e-a64d9e2afe47)
+ Conforme imagem acima perceba que a link destacacado em azul para Saber mais (Learn more...)
 
-
+ ### - Workspace details
+   * Name: Nodo do seu projeto, modelo (Deve ser único)
+   * Region: Basicamente, quer dizer em qual servidor da Microsoft você quer salvar. Acredito que também determina a moda que será cobrado por utilizar esse serviço.
+   * 
 
