@@ -55,6 +55,7 @@ Essa configuração não tem um padrão exato, fica a critério da empresa. A co
  ### - Workspace details
    * Name: nome do seu projeto, modelo (Deve ser único)
    * Region: Basicamente, quer dizer em qual servidor da Microsoft você quer salvar. Acredito que também determina a moeda que será cobrado por utilizar esse serviço.
-   * Storage account: 
+   * Storage account: no nosso exemplo, será preenchido automaticamente, pois estamos criando um novo, então, só manter.
+     
  ![image](https://github.com/user-attachments/assets/224699c0-9be1-4fb2-89ae-cc5a2342dfd8)
 
